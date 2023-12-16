@@ -1,0 +1,16 @@
+Definitions of positive, negative and neutral coverage.
+
+1. Positive
+    - Praise toward Taylor Swift.
+    - The title and description should contain some form of compliment or appreciation.
+    - E.g.: Music on top of charts, award wins, tour success, etc.
+
+2. Neutral
+    - Factual reports about Taylor Swift.
+    - The title and description should contain only general information without the presence of subjective comments.
+    - E.g.: Tour announcements, music releases, personal life updates, etc.
+
+3. Negative
+    - Criticism toward Taylor Swift.
+    - The title and description should contain some form of controversy or unflattering language.
+    - E.g.: Incident during a performance, legal disputes, personal life drama, etc.

@@ -1,0 +1,37 @@
+{
+    "Dead Fan": {
+        "positive": 0.04,
+        "neutral": 0.03,
+        "negative": 0.74
+    },
+    "Eras Tour": {
+        "positive": 0.19,
+        "neutral": 0.24,
+        "negative": 0.11
+    },
+    "Global influence": {
+        "positive": 0.12,
+        "neutral": 0.13,
+        "negative": 0.01
+    },
+    "Miscellaneous Facts": {
+        "positive": 0.03,
+        "neutral": 0.11,
+        "negative": 0.02
+    },
+    "Music Releases": {
+        "positive": 0.07,
+        "neutral": 0.03,
+        "negative": 0.0
+    },
+    "Musical Accomplishments": {
+        "positive": 0.41,
+        "neutral": 0.02,
+        "negative": 0.02
+    },
+    "Travis Kelce": {
+        "positive": 0.13,
+        "neutral": 0.44,
+        "negative": 0.09
+    }
+}
